@@ -1,4 +1,4 @@
-<h1 align="center">Asus-X512FA-I5-10210U-EFI-Hackintosh </h1>
+<h1 align="center">Asus-X512FA-I5-10210U-EFI </h1>
 
 <p align="center">
     <a href="https://www.apple.com/">
